@@ -1,0 +1,11 @@
+sku=20
+image=15
+description=255
+longdescription=3000
+manufacturer=50
+categoryid=10
+subcategoryid=10
+price=10
+stock=10
+status=1
+agerestricted=1
